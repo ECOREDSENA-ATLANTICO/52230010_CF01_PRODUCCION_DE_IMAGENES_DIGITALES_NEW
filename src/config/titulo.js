@@ -1,1 +1,1 @@
-module.exports = 'Diseño y creatividad publicitaria'
+module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
